@@ -1,0 +1,3 @@
+[submodule "submodulePodobailo"]
+	path = submodulePodobailo
+	url = git@github.com:EndL11/SubmoduleRepository_Podobailo.git
